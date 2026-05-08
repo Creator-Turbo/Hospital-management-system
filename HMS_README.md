@@ -62,7 +62,7 @@ A full-stack Hospital Management System with Python FastAPI backend and vanilla 
    ```
 
 3. Activate the virtual environment:
-   - Windows: `venv\Scripts\activate`
+   - Windows: ``venv\Scripts\activate
    - macOS/Linux: `source venv/bin/activate`
 
 4. Install dependencies:
@@ -96,6 +96,16 @@ The API will be available at `http://localhost:8000`
    ```
 
 3. Open `http://localhost:3000` in your browser
+
+
+### Ai Assitant 
+cd Ai_Assitant
+
+Windows: `venv\Scripts\activate`
+
+python app.py
+
+
 
 ## API Endpoints
 
